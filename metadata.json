@@ -1,0 +1,5 @@
+{
+  "name": "GodyScan.Ai",
+  "description": "Analyze food, electronics, personal care products, and more to get usage guides, ratings, and insights using Gemini AI.",
+  "requestFramePermissions": ["camera"]
+}
